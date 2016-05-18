@@ -1,6 +1,6 @@
 /**
  * An Angular module that lets you broadcast messages
- * @version v1.0.0 - 2016-05-18
+ * @version v1.0.1 - 2016-05-18
  * @link https://github.com/kdlcruz/bombo
  * @author kdlcruz <kj_delacruz28@yahoo.com>
  * @license MIT License, http://www.opensource.org/licenses/MIT
