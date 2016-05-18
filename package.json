@@ -1,0 +1,26 @@
+{
+  "name": "bombo",
+  "version": "1.0.0",
+  "description": "Bombo is an AngularJS service that lets your broadcast messages",
+  "main": "bombo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdlcruz/bombo.git"
+  },
+  "keywords": [
+    "angular",
+    "broadcast",
+    "angular",
+    "sending",
+    "data"
+  ],
+  "author": "Kevin Jay Dela Cruz <kj_delacruz28@yahoo.com> (https://github.com/kdlcruz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdlcruz/bombo/issues"
+  },
+  "homepage": "https://github.com/kdlcruz/bombo#readme"
+}
