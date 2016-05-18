@@ -1,6 +1,6 @@
 /**
  * An Angular module that lets you broadcast messages
- * @version v0.0.1 - 2016-05-18
+ * @version v1.0.0 - 2016-05-18
  * @link https://github.com/kdlcruz/bombo
  * @author kdlcruz <kj_delacruz28@yahoo.com>
  * @license MIT License, http://www.opensource.org/licenses/MIT
@@ -8,7 +8,7 @@
 (function (window, angular) {
 angular
   .module('BomboModule', [])
-  .factory('Bombo', function($rootScope) {
+  .factory('bombo', function($rootScope) {
   	return {
       'prep': function(event, msg, log) {
         log = log || false;
