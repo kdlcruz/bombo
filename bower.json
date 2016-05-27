@@ -1,0 +1,24 @@
+{
+  "name": "bombo",
+  "description": "Bombo is an AngularJS service that lets your broadcast messages in between services, controllers and directives",
+  "main": "bombo.js",
+  "authors": [
+    "Kevin Jay Dela Cruz <kj_delacruz28@yahoo.com> (https://github.com/kdlcruz)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "broadcast",
+    "angular",
+    "sending",
+    "data"
+  ],
+  "homepage": "https://github.com/kdlcruz/bombo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
