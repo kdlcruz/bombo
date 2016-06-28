@@ -2,9 +2,6 @@
 
 Bombo is an AngularJS service that lets your broadcast messages in between services, controllers and directives.
 
-### Version
-1.0.0
-
 ### Installation
 
 **(1)** Install using either **NPM** or **Bower**
@@ -16,7 +13,7 @@ $ npm install --save bombo
 
 **Bower**
 ```sh
-$ npm install --save bombo
+$ bower install --save bombo
 ```
 
 **(2)** Include **bombo.js** from *node_modules/bombo/* into your project.
